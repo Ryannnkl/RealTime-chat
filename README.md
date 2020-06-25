@@ -30,4 +30,4 @@ cd RealTime-chat
 npm install
 ```
 
-**\*abra** https://localhost:3000 em duas abas **ou em 2 navegadores** e o chat ja esta funcionando entre os navegadores
+**\*abra** https://localhost:3000 em duas abas **ou em 2 navegadores** e o chat ja vai estar funcionando entre os navegadores
