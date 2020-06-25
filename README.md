@@ -18,9 +18,9 @@ Esse é um exemplo simples de troca de menssagens em tempo real com o socket.io
 
 - Ferramentas
   - [Express](https://expressjs.com)
-  - Socket.io
+  - [Socket.io](https://socket.io/)
 
-## como rodar?
+## Como usar?
 
 ```bash
 git clone https://github.com/Ryannnkl/RealTime-chat.git
@@ -30,4 +30,6 @@ cd RealTime-chat
 npm install
 ```
 
-**\*abra** https://localhost:3000 em duas abas **ou em 2 navegadores** e o chat ja vai estar funcionando entre os navegadores
+---
+
+**abra** https://localhost:3000 em duas abas **ou em 2 navegadores** e o chat ja vai estar funcionando entre os navegadores
